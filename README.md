@@ -1,4 +1,3 @@
-# ilyes_classiff
 ## multi label classification
 
 I’ll assume that you have Keras, scikit-learn, matpolotlib and OpenCV installed .
